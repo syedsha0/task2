@@ -1,0 +1,18 @@
+#Phishing Indicators Identified:
+
+During the analysis of the sample phishing email, several red flags were identified:
+
+Fake Domain Name:
+The sender’s email address was support@paypa1.com. At first glance, it may look like it belongs to PayPal, but the attacker has cleverly replaced the letter "l" with the number "1" to trick the user. This is a common phishing tactic used to mimic legitimate domains.
+
+Urgent Language:
+The message creates a sense of urgency by instructing the user to take action “within 24 hours.” Phishing emails often use time pressure to make recipients act quickly without thinking.
+
+Threatening Tone:
+The email warns that the user’s account will be permanently terminated if they fail to act. This is a scare tactic used to increase the chance of the victim clicking the malicious link.
+
+Suspicious URL:
+The link in the email (https://secure-paypal-verify.com) appears secure at a glance, but it is not an official PayPal domain. Hovering over the link would reveal it points to a suspicious site.
+
+Generic Greeting:
+Instead of addressing the recipient by name, the email starts with “Dear Customer.” Legitimate companies usually personalize messages with the user's actual name or account information.
