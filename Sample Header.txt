@@ -1,0 +1,17 @@
+#Sample Header
+Return-Path: <support@paypa1.com>
+Received: from unknown1234.fakehost.com (unknown1234.fakehost.com [185.123.45.67])
+    by mail.example.com (Postfix) with ESMTP id 9AF8E12ABCD
+    for <user@example.com>; Mon, 27 May 2025 09:35:12 +0530 (IST)
+Received: by fakehost.com (Postfix, from userid 1000)
+    id ABCDE12345; Mon, 27 May 2025 09:34:56 +0530 (IST)
+Date: Mon, 27 May 2025 09:34:56 +0530
+From: PayPal Support <support@paypa1.com>
+Reply-To: noreply@secure-paypal-verify.com
+To: syedmohamedshah2002.com
+Subject: Urgent: Account Suspended
+Message-ID: <1234567890@mail.fakehost.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+X-Mailer: Microsoft Outlook 16.0
+X-Originating-IP: [185.123.45.67]
