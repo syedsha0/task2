@@ -1,0 +1,17 @@
+#Key Red Flags You’ll See in an Analyzer
+
+Return-Path:
+The Return-Path field shows the email came from paypa1.com, which is clearly a spoofed domain. This domain imitates the legitimate PayPal domain by substituting the letter "l" with the number "1".
+
+Reply-To Address:
+The Reply-To field points to noreply@secure-paypal-verify.com, a domain that does not belong to PayPal. This mismatch between the "From" and "Reply-To" addresses is a common sign of phishing, as it redirects replies to the attacker’s controlled address.
+
+Received Field:
+The Received line indicates that the email was sent from a suspicious server (fakehost.com). Legitimate companies typically send emails from well-known and verifiable mail servers.
+
+X-Originating-IP:
+The originating IP address belongs to an unknown or potentially blacklisted server. This is another red flag that the email could be malicious.
+
+Subject Line:
+The subject "Urgent: Account Suspended" uses emotionally charged language to alarm the user and encourage immediate action — a classic social engineering tactic in phishing campaigns.
+
